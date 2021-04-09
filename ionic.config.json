@@ -1,0 +1,8 @@
+{
+  "name": "iCurse",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular",
+  "id": "2f71be55"
+}
